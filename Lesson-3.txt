@@ -42,4 +42,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    -   When you want to work something new, it's better to work in a different 
+        branch rather than work directly in the master branch. You can test anything 
+        you want wihtout fearing to break the code alredy writen.
+
